@@ -8,7 +8,7 @@ Aplicación web de comercio electrónico que consume datos de una API pública, 
 
 ### Demo en Vivo
 Puedes ver una demostración en vivo del proyecto aquí:
-**[Ver Demo en Vivo](https://tu-usuario.github.io/tu-repositorio/)**
+**[Ver Demo en Vivo]([https://tu-usuario.github.io/tu-repositorio/](https://anylorena.github.io/electroshop/))**
 
 ---
 
